@@ -1,2 +1,5 @@
-# [URL Shortener Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice)
-# url-shortner
+# URL SHORTNER MICROSERVICE
+
+A project built with Express JS + MongoDB.
+
+For a given url the api will return a short url, working similar to bit.ly service.
